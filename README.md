@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 
 
 
-![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/heart-16.svg "❤ Bangumi") 東方Project / Steins;Gate / とある科学の超電磁砲 / ひぐらしのなく頃に / Angel Beats / 少女終末旅行 / 魔女の旅々\
+![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/heart-16.svg "❤ Bangumi") 東方Project / Steins;Gate / ひぐらしのなく頃に / とある科学の超電磁砲 / Angel Beats / 少女終末旅行 / 魔女の旅々\
 ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/star-16.svg "❤ Music") [永夜のパレード](http://music.163.com/song?id=692193) / [花月夜](http://music.163.com/song?id=28928723) / [スカイクラッドの観测者](http://music.163.com/song?id=550128) / [
 Heaven is a Place On Earth](http://music.163.com/song?id=725259) / [命に嫌われている](http://music.163.com/song?id=529659114) / [生きていたんだよな](http://music.163.com/song?id=443875380)
