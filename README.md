@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=eeeeee&logo=Typescript&logoColor=3178C6&label= "Typescript")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=eeeeee&logo=Android&logoColor=3ddb85&label= "Android")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=eeeeee&logo=CSharp&logoColor=239120&label= "C#")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Nix&color=eeeeee&logo=NixOS&logoColor=5277C3&label= "Nix")
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg "IDEs / Editors") IDEs / Editors
 
