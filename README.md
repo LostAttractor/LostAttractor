@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ## 哈喽， 这里是ChaosAttractor，叫我CA也可以哦 (<ゝω·) ~☆
+## Hi there, here is ChaosAttractor. You can call me CA as well :D
 
-### ![About Icon](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me](https://lostattractor.net/s/about)
+### ![About Icon](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me (In Chinese)](https://lostattractor.net/s/about)
+
 <img align="right" src="https://github-readme-stats-lostattractor.vercel.app/api?username=lostattractor&count_private=true&show_icons=true">
 
 ![FullStackOverflow Developer](https://s2.loli.net/2022/06/03/oAc3dFmQUBpM4bJ.png)
@@ -30,7 +32,7 @@ https://shields.io/static/v1
   &cacheSeconds=0
 -->
 ![HRT](https://hrt-days-matter.lostattractor.workers.dev)
-![RLE](https://shields.io/static/v1?style=for-the-badge&label=RLE&color=blue&message=%E6%88%91%E4%B9%9F%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A4%9A%E5%B0%91%E5%A4%A9&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNDAwIj4KICA8cGF0aCBmaWxsPSIjNUJDRUZBIiBkPSJNMCAwaDgwMHY0MDBIMHoiLz4KICA8cGF0aCBmaWxsPSIjRjVBOUI4IiBkPSJNMCA4MGg4MDB2MjQwSDB6Ii8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTAgMTYwaDgwMHY4MEgweiIvPgo8L3N2Zz4K&cacheSeconds=0)
+![RLE](https://shields.io/static/v1?style=for-the-badge&label=RLE&color=blue&message=IDK%20QAQ&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNDAwIj4KICA8cGF0aCBmaWxsPSIjNUJDRUZBIiBkPSJNMCAwaDgwMHY0MDBIMHoiLz4KICA8cGF0aCBmaWxsPSIjRjVBOUI4IiBkPSJNMCA4MGg4MDB2MjQwSDB6Ii8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTAgMTYwaDgwMHY4MEgweiIvPgo8L3N2Zz4K&cacheSeconds=0)
 
 > 喜欢研究一些感兴趣的东西\
 > 想到要做什么就会放手去做\
@@ -70,11 +72,12 @@ https://shields.io/static/v1
 
 ### ![Operating Systems Icon](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg "Operating Systems") Operating Systems
 
-![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2011&color=eeeeee&logo=Windows11&logoColor=0078D6&label= "Windows 11")
 ![NixOS](https://img.shields.io/static/v1?style=for-the-badge&message=NixOS&color=eeeeee&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNTUwLjQxNiA0ODQuMzE3IiBoZWlnaHQ9IjUxNi42MDQiIHdpZHRoPSI1ODcuMTEiPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iYSI+PHN0b3Agb2Zmc2V0PSIwIiBzdHlsZT0ic3RvcC1jb2xvcjojNjk5YWQ3O3N0b3Atb3BhY2l0eToxIi8+PHN0b3Agc3R5bGU9InN0b3AtY29sb3I6IzdlYjFkZDtzdG9wLW9wYWNpdHk6MSIgb2Zmc2V0PSIuMjQzIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdHlsZT0ic3RvcC1jb2xvcjojN2ViYWU0O3N0b3Atb3BhY2l0eToxIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImIiPjxzdG9wIG9mZnNldD0iMCIgc3R5bGU9InN0b3AtY29sb3I6IzQxNWU5YTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIHN0eWxlPSJzdG9wLWNvbG9yOiM0YTZiYWY7c3RvcC1vcGFjaXR5OjEiIG9mZnNldD0iLjIzMiIvPjxzdG9wIG9mZnNldD0iMSIgc3R5bGU9InN0b3AtY29sb3I6IzUyNzdjMztzdG9wLW9wYWNpdHk6MSIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IHkyPSI1MDYuMTg4IiB4Mj0iMjkwLjA4NyIgeTE9IjM1MS40MTEiIHgxPSIyMDAuNTk3IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDcwLjY1IC0xMDU1LjE1MSkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBpZD0iYyIgeGxpbms6aHJlZj0iI2EiLz48bGluZWFyR3JhZGllbnQgeTI9IjkzNy43MTQiIHgyPSItNDk2LjI5NyIgeTE9Ijc4Mi4zMzYiIHgxPSItNTg0LjE5OSIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSg4NjQuNjk2IC0xNDkxLjM0KSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIGlkPSJlIiB4bGluazpocmVmPSIjYiIvPjwvZGVmcz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTMyLjY1MSA5NTguMDQpIiBzdHlsZT0iZGlzcGxheTppbmxpbmU7b3BhY2l0eToxIj48cGF0aCBzdHlsZT0ib3BhY2l0eToxO2ZpbGw6dXJsKCNjKTtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6bm9uZTtzdHJva2Utd2lkdGg6MztzdHJva2UtbGluZWNhcDpidXR0O3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDo0O3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utb3BhY2l0eToxIiBkPSJtMzA5LjU0OS03MTAuMzg4IDEyMi4xOTcgMjExLjY3NS01Ni4xNTcuNTI3LTMyLjYyNC01Ni44Ny0zMi44NTYgNTYuNTY2LTI3LjkwMy0uMDExLTE0LjI5LTI0LjY5IDQ2LjgxLTgwLjQ5LTMzLjIzLTU3LjgyNnoiIGlkPSJkIi8+PHVzZSB4bGluazpocmVmPSIjZCIgdHJhbnNmb3JtPSJyb3RhdGUoNjAgNDA3LjExMiAtNzE1Ljc4NykiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiLz48dXNlIHhsaW5rOmhyZWY9IiNkIiB0cmFuc2Zvcm09InJvdGF0ZSgtNjAgNDA3LjMxMiAtNzE1LjcpIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIi8+PHVzZSB4bGluazpocmVmPSIjZCIgdHJhbnNmb3JtPSJyb3RhdGUoMTgwIDQwNy40MTkgLTcxNS43NTYpIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIi8+PHBhdGggaWQ9ImYiIGQ9Im0zMDkuNTQ5LTcxMC4zODggMTIyLjE5NyAyMTEuNjc1LTU2LjE1Ny41MjctMzIuNjI0LTU2Ljg3LTMyLjg1NiA1Ni41NjYtMjcuOTAzLS4wMTEtMTQuMjktMjQuNjkgNDYuODEtODAuNDktMzMuMjMtNTcuODI2eiIgc3R5bGU9ImNvbG9yOiMwMDA7Y2xpcC1ydWxlOm5vbnplcm87ZGlzcGxheTppbmxpbmU7b3ZlcmZsb3c6dmlzaWJsZTt2aXNpYmlsaXR5OnZpc2libGU7b3BhY2l0eToxO2lzb2xhdGlvbjphdXRvO21peC1ibGVuZC1tb2RlOm5vcm1hbDtjb2xvci1pbnRlcnBvbGF0aW9uOnNSR0I7Y29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzOmxpbmVhclJHQjtzb2xpZC1jb2xvcjojMDAwO3NvbGlkLW9wYWNpdHk6MTtmaWxsOnVybCgjZSk7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjM7c3Ryb2tlLWxpbmVjYXA6YnV0dDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLWRhc2hvZmZzZXQ6MDtzdHJva2Utb3BhY2l0eToxO2NvbG9yLXJlbmRlcmluZzphdXRvO2ltYWdlLXJlbmRlcmluZzphdXRvO3NoYXBlLXJlbmRlcmluZzphdXRvO3RleHQtcmVuZGVyaW5nOmF1dG87ZW5hYmxlLWJhY2tncm91bmQ6YWNjdW11bGF0ZSIvPjx1c2Ugc3R5bGU9ImRpc3BsYXk6aW5saW5lIiB4bGluazpocmVmPSIjZiIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwIDQwNy4zNCAtNzE2LjA4NCkiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiLz48dXNlIHN0eWxlPSJkaXNwbGF5OmlubGluZSIgeGxpbms6aHJlZj0iI2YiIHRyYW5zZm9ybT0icm90YXRlKC0xMjAgNDA3LjI4OCAtNzE1Ljg3KSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIvPjwvZz48L3N2Zz4=&label= "NixOS")
 ![ArchLinux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch%20Linux&color=eeeeee&logo=ArchLinux&logoColor=0F94D2&label= "Arch Linux")
+![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2011&color=eeeeee&logo=Windows11&logoColor=0078D6&label= "Windows 11")
 
-
+---
+### 一些喜爱的 / Some favorites
 
 ![Loved Bangumi](https://cdn.jsdelivr.net/gh/primer/octicons/icons/heart-16.svg "❤ Bangumi") 東方Project / Steins;Gate / ひぐらしのなく頃に / とある科学の超電磁砲 / Angel Beats / 少女終末旅行 / 魔女の旅々\
 ![Stard Music](https://cdn.jsdelivr.net/gh/primer/octicons/icons/star-16.svg "❤ Music") [永夜のパレード](http://music.163.com/song?id=692193) / [花月夜](http://music.163.com/song?id=28928723) / [スカイクラッドの観测者](http://music.163.com/song?id=550128) / [
