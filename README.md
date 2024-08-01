@@ -62,6 +62,8 @@ https://img.shields.io/badge/
 ![DevOps](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/devops.json)
 ![Nix](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/nix.json)
 ![Docker](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/docker.json)
+![Kubenetes](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/kubenetes.json)
+![K3s](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/k3s.json)
 ![Proxmox VE](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/proxmox.json)
 
 ### ![Launcher Icon](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg) Tools / Editors / IDEs
