@@ -57,7 +57,6 @@ https://img.shields.io/badge/
 ![JavaScript](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/javascript.json)
 ![TypeScript](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/typescript.json)
 ![Android](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/android.json)
-![C#](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/csharp.json)
 
 
 ![DevOps](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/devops.json)
@@ -72,12 +71,10 @@ https://img.shields.io/badge/
 ![Micro](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/micro.json)
 ![Warp](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/warp.json)
 
+![Visual Studio Code](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/visualstudiocode.json)
 ![Intellij IDEA](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/idea.json)
 ![CLion](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/clion.json)
-![Visual Studio Code](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/visualstudiocode.json)
-![Visual Studio](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/visualstudio.json)
 ![Android Studio](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/androidstudio.json)
-![Typora](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LostAttractor/LostAttractor/master/badges/typora.json)
 
 ### ![Operating Systems Icon](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg) Operating Systems / Desktop Environment
 
