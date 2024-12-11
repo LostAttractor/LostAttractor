@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats-lostattractor.vercel.app/api?username=lostattractor&count_private=true&show_icons=true">
 
-![FullStackOverflow Developer](https://s2.loli.net/2022/06/03/oAc3dFmQUBpM4bJ.png)
+<!-- ![FullStackOverflow Developer](https://s2.loli.net/2022/06/03/oAc3dFmQUBpM4bJ.png) -->
 
 <!-- In works URL
 https://img.shields.io/badge/
